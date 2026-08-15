@@ -1,4 +1,5 @@
 # NeetCode Solutions — @divya5623
+This is my day to day practice for DSA 
 
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
 
